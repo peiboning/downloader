@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_360d6ba48d20d82f7f05680cd18e6095421cca47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/peiboning/.android/build-cache/d0776f12f0ea3b922cf2e75f7b996ab03a4da56a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3daf90c36f49bcda55cb8bfd2bf138f53a1e654e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/peiboning/.android/build-cache/de634f8744b65f4d189964e3c6470093c2668ffe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdc2fe0e7127cba4bfa2212c6398d3fcbb3fd93f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/peiboning/.android/build-cache/912e8266570b5f864ad472334445191f2b46a14a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53440e03197a57858ac120b22c6195da9a5b6ff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/peiboning/.android/build-cache/e0478d29920cf467772eafefc4ab3c51d1817e18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a497298cd5a570bcec174ae876bda96372d89667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/peiboning/.android/build-cache/457dc613e62fc088ef5202f525c181238095cde4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_477a8686d1904e8145ee18026f6365dbd70ed37f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/peiboning/.android/build-cache/bb0554b56dffabd992e450709cbf51e83eecbf8a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3eda51be622a0a9d2b0972a8b5aa1dcf6310a648/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/peiboning/.android/build-cache/ad8f54bbcb439b18d623594c0364e0b7bfc471a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a3cf50e0e8835275e88557ece35f003872aa4de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/peiboning/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_c01f77ab1de04149c0648373ba87b0d30db5ad82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="647ba3b0c2bb97b2ebab294a3726a168f1501129">
+        <dex dex="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f94eca080c30ce9b7ef9109c94641452ced68712/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/peiboning/.android/build-cache/b3abafaf29be762b8f5c27e2f6554061a5bcb4ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d1c68e5ab38238012c03447d58fe678db446223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/peiboning/.android/build-cache/8d2e8e73b8520d2c18b740338307385788fbaf81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/peiboning/aswork/sdk/Download/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a1ac6581c0c3a7a02fe48df086f448115f7660c/classes.dex" />
+    </item>
+
+</items>
